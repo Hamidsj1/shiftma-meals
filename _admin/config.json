@@ -1,0 +1,20 @@
+{
+  "locations": [
+    {
+      "slug": "sungun",
+      "name": "سونگون"
+    },
+    {
+      "slug": "sarcheshmeh",
+      "name": "سرچشمه"
+    },
+    {
+      "slug": "shahrbabak",
+      "name": "شهربابک"
+    },
+    {
+      "slug": "daralu",
+      "name": "درآلو"
+    }
+  ]
+}

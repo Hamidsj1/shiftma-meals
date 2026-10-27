@@ -2,14 +2,9 @@
   "enabled": true,
   "complexes": [
     {
-      "name": "مجتمع سونگون",
-      "label": "آبان",
-      "file": "https://raw.githubusercontent.com/Hamidsj1/shiftma-meals/main/sungun/complex-20261026065832-1.jpg"
-    },
-    {
       "name": "سونگون",
-      "label": "",
-      "file": "https://raw.githubusercontent.com/Hamidsj1/shiftma-meals/main/sungun/complex-20261026075922-2.jpg"
+      "label": "آبان 1405",
+      "file": "https://raw.githubusercontent.com/Hamidsj1/shiftma-meals/main/sungun/img_20261026_065729_354-cio0.jpg"
     }
   ]
 }
